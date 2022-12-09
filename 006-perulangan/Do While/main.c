@@ -1,13 +1,15 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
   int i = 0;
   int j;
 
   printf("Cetak Sebanyak : ");
   scanf("%d", &j);
 
-  do {
+  do
+  {
     printf("Saya senang belajar bahasa C\n");
     i++;
   } while (i < j);

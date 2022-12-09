@@ -1,9 +1,11 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
   printf("Program akan looping, akhiri dengan Ctrl-c ");
 
-  for (;;) {
+  for (;;)
+  {
     printf("Menunggu ^c...\n");
   }
 

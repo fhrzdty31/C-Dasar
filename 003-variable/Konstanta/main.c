@@ -5,7 +5,8 @@
 #define SATU 1
 #define pi 3.1415
 
-int main(void) {
+int main(void)
+{
   const int maks = 3;
   const float param = 2.5;
   const char cc = 65;

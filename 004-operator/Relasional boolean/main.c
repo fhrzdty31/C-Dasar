@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
   int uang = 6000;
   int hujan = 0;
 

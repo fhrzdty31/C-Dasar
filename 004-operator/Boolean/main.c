@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
   int TRUE = 1;
   int FALSE = 0;
 
